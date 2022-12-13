@@ -18,3 +18,4 @@ hello natian , hello git hot-fix test
 测试和主分支版本不一样合并冲突
 来自jjt_test1的修改
 真实测试
+真实测试来自远程master
