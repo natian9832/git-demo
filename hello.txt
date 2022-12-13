@@ -21,3 +21,4 @@ hello natian , hello git hot-fix test
 真实测试来自远程master
 继续测试真实情况
 hot-fix的修改
+继续测试真实情况2
