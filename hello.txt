@@ -15,3 +15,4 @@ hello natian , hello git
 hello natian , hello git master test
 hello natian , hello git hot-fix test
 在远程库master分支的修改
+测试和主分支版本不一样合并冲突
